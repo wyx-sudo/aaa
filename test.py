@@ -1,0 +1,2 @@
+#!/usr/python
+print("hello")
